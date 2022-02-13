@@ -7,9 +7,13 @@
 - 👯 I’m looking to help others with our custom documentation project!
 - 🥅 2022 Goals:
   - Learn Another spoken language
-  - Learn HTML, CSS, JS, Python, and Java
+  - Learn HTML, CSS, JS, Python, Skript, and Java
   - Make a working version of my custom Documentation that is free to use with minimal ads (To host the server)
 - ⚡Check out my collab projects (Where I put most of my time into) @ https://github.com/Zestarr-and-devil
+- 🧠 Known Languages:
+  - Java
+  - Python
+  - Skript
 
 ## Github Status
 
