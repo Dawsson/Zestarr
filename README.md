@@ -1,11 +1,14 @@
 ### 👋 Hi there Im Zestarr
 
-## I'm a java developer.
+## I'm a Developer
 
 - 🔭 I'm just expanding my brain knowledge on java.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to help others!
-- 🥅 2022 Goals: Learn way more java.
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to help others with our custom documentation project!
+- 🥅 2022 Goals:
+## Learn Another spoken language
+
+
 - ⚡ Fun fact: I love to play games!
 
 
