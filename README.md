@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to help others with our custom documentation project!
 - 🥅 2022 Goals:
-## Learn Another spoken language
+  -Learn Another spoken language
 
 
 - ⚡ Fun fact: I love to play games!
