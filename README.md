@@ -9,7 +9,7 @@
   - Learn Another spoken language
   - Learn HTML, CSS, JS, Python, and Java
   - Make a working version of my custom Documentation that is free to use with minimal ads (To host the server)
-
+- ⚡Check out my collab projects (Where I put most of my time into) @ https://github.com/Zestarr-and-devil
 
 ## Github Status
 
