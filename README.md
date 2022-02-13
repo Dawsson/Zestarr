@@ -1,31 +1,20 @@
-### 👋 Hi there we are Zestarr & Devil
+### 👋 Hi there Im Zestarr
 
-## We are mainly java developers.
+## I'm a java developer.
 
-- 🔭 We want to expand our knowledge on java.
-- 🌱 We currently learning everything 🤣
-- 👯 We looking to help others!
+- 🔭 I'm just expanding my brain knowledge on java.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to help others!
 - 🥅 2022 Goals: Learn way more java.
-- ⚡ Fun fact: We love to play games!
+- ⚡ Fun fact: I love to play games!
 
 
 ## Github Status
 
-### Zestarr
-
-![Status Zestarr](https://github-readme-stats.vercel.app/api?username=zestarr&show_icons=true&theme=radical&hide_border=true)
-
-### Devil
-
-![Status Devil](https://github-readme-stats.vercel.app/api?username=thatonedevil&show_icons=true&theme=radical&hide_border=true)
+![Zestarr](https://github-readme-stats.vercel.app/api?username=zestarr&show_icons=true&theme=radical&hide_border=true)
 
 
 ## Top languages
 
-### Zestarr
 
-![Top Langs Zestarr](https://github-readme-stats.vercel.app/api/top-langs/?username=zestarr&layout=compact&theme=radical)
-
-### Devil
-
-![Top Langs Devil](https://github-readme-stats.vercel.app/api/top-langs/?username=thatonedevil&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zestarr&layout=compact&theme=radical)
