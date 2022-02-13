@@ -10,8 +10,6 @@
   - Learn HTML, CSS, JS, Python, and Java
   - Make a working version of my custom Documentation that is free to use with minimal ads (To host the server)
 
-- ⚡ Fun fact: I love to play games!
-
 
 ## Github Status
 
