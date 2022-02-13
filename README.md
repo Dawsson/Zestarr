@@ -7,7 +7,8 @@
 - 👯 I’m looking to help others with our custom documentation project!
 - 🥅 2022 Goals:
   - Learn Another spoken language
-
+  - Learn HTML, CSS, JS, Python, and Java
+  - Make a working version of my custom Documentation that is free to use with minimal ads (To host the server)
 
 - ⚡ Fun fact: I love to play games!
 
