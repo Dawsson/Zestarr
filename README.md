@@ -14,12 +14,12 @@
   
 ## Github Status
 
-![Zestarr](https://github-readme-stats.vercel.app/api?username=zestarr&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zestarr&&hide_border=true&theme=tokyonight" alt="mystreak"/>
+![Zestarr](https://github-readme-stats.vercel.app/api?username=Zestarr&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zestarr&&hide_border=true&theme=tokyonight" alt="mystreak"/>
 
 ## Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zestarr&layout=compact&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zestarr&layout=compact&hide_border=true&theme=tokyonight)
 
 ### Languages and Tools
 
