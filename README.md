@@ -6,7 +6,7 @@
 - 🥅 2022 Goals:
   - Learn Another spoken language
   - Become a Fullstack Developer, 
-  - Make a working version of my custom Documentation that is free to use with minimal ads (To host the server)
+
 - 🧠 Known Languages:
   - Java
   
