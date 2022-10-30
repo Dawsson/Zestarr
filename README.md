@@ -5,12 +5,10 @@
 - 🌱 I’m currently focusing on Java and the spigot api
 - 🥅 2022 Goals:
   - Learn Another spoken language
-  - Learn HTML, CSS, JS, Python, Skript, and Java
+  - Become a Fullstack Developer, 
   - Make a working version of my custom Documentation that is free to use with minimal ads (To host the server)
 - 🧠 Known Languages:
   - Java
-  - Python (Basics)
-  - Skript
   
 ## Github Status
 
