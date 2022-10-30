@@ -14,6 +14,7 @@
 
 ![Zestarr](https://github-readme-stats.vercel.app/api?username=Zestarr&show_icons=true&theme=tokyonight&hide_border=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zestarr&&hide_border=true&theme=tokyonight" alt="mystreak"/>
+[![wakatime](https://wakatime.com/badge/user/9a1413eb-01b6-48b8-a16c-1e18c29b57ba.svg)](https://wakatime.com/@9a1413eb-01b6-48b8-a16c-1e18c29b57ba)
 
 ## Top languages
 
